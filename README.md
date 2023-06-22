@@ -26,4 +26,4 @@ satellite path number (identifies the image location)
 identifies a specific scene on the path
 
 ### resolution
-250 or 1000
+"250m" or "1000m"
